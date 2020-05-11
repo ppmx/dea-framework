@@ -1,0 +1,6 @@
+!libs/
+libs/*/
+!libs/*/config.json
+build
+__pycache__
+deploy/
