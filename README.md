@@ -1,4 +1,6 @@
-# Sputnik Documentation
+# DEA Framework
+
+This code provides a framework to perform Differential Equivalence Analysis.
 
 
 ## Installation
